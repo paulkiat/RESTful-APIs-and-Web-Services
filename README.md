@@ -1,6 +1,3 @@
-
-# RESTful-APIs-and-Web-Services - README
-
 ## Project Title
 Mobile System Development and Web Application
 
